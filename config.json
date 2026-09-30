@@ -1,0 +1,10 @@
+{
+    "directorios": {
+        "respaldos": "./backups",
+        "logs": "./logs"
+    },
+    "api": {
+        "endpoint": "https://api.ia-reviewer.local/v1/analyze",
+        "timeout": 30
+    }
+}
